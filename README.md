@@ -1,5 +1,7 @@
 # test3it
 
+![branches](./badges/badge-branches.svg)
+<img src="./badges/badge-branches.svg">
 
 
 
