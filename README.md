@@ -20,5 +20,9 @@
 
 ### Listo!
 
-
 # Saludos!
+
+## Informacion extra
+
+### incluido CI/CD con Circle CI
+### tests con covertura minima de 80%
