@@ -22,7 +22,6 @@ const seriesTransform = series => {
 };
 
 export const oneIndicatorToBO = indicator => {
-  console.log('api indicator', indicator);
   return {
     name: indicator.nombre,
     code: indicator.codigo,
