@@ -22,3 +22,8 @@ jobs:
       - run:
           name: Run tests
           command: npm run test
+      - store_artifacts:
+          path: coverage
+      - run:
+          name: Colect coverage badge
+          command: npm run test:badges
