@@ -1,7 +1,6 @@
 # test3it
 
 ![Alt text](./badges/badge-branches.svg)
-<img src="./badges/badge-branches.svg">
 
 
 
