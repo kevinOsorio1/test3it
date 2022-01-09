@@ -1,10 +1,11 @@
 const {defaults} = require('jest-config');
 module.exports = {
   preset: 'react-native',
-  setupFiles: ['<rootDir>/__tests__/jest-setup.js'],
+  setupFiles: ['<rootDir>/__tests__/setup/jest-setup.js'],
   transformIgnorePatterns: [
     'node_modules/(?!(jest-)?@?react-native|@react-native-community|@react-navigation)',
   ],
+  testPathIgnorePatterns: ['<rootDir>/__tests__/setup'],
   moduleDirectories: ['node_modules', 'src'],
   testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.(js?|ts?)?$',
   moduleFileExtensions: [
