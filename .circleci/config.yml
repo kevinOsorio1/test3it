@@ -21,9 +21,9 @@ jobs:
             - .yarn/unplugged
       - run:
           name: Run tests
-          command: npm run test
+          command: yarn  test
       - store_artifacts:
           path: coverage
       - run:
           name: Colect coverage badge
-          command: npm run test:badges
+          command: yarn test:badges
