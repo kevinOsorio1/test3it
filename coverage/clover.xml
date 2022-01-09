@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1641762370525" clover="3.2.0">
+  <project timestamp="1641762370526" name="All files">
+    <metrics statements="141" coveredstatements="139" conditionals="23" coveredconditionals="20" methods="56" coveredmethods="54" elements="220" coveredelements="213" complexity="0" loc="141" ncloc="141" packages="16" files="28" classes="28"/>
+    <package name="test3it">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.API.Repository">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="Indicators.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/API/Repository/Indicators.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="8" type="stmt"/>
+      </file>
+      <file name="Repository.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/API/Repository/Repository.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.Navigation">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Drawer.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/Navigation/Drawer.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="HomeStack.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/Navigation/HomeStack.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.Views.Home">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Home.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/Views/Home/Home.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.Views.IndicatorDetailsView">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="IndicatorDetailsView.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/Views/IndicatorDetailsView/IndicatorDetailsView.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.Views.IndicatorTimeLine">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="IndicatorTimeLine.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/Views/IndicatorTimeLine/IndicatorTimeLine.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.components.Indicator">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Indicator.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/Indicator/Indicator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+      </file>
+      <file name="Indicator.styles.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/Indicator/Indicator.styles.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.components.IndicatorDetails">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="IndicatorDetailLabel.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/IndicatorDetails/IndicatorDetailLabel.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+      <file name="IndicatorDetails.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/IndicatorDetails/IndicatorDetails.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="IndicatorDetails.style.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/IndicatorDetails/IndicatorDetails.style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+      <file name="indicatorDetailsLabel.style.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/IndicatorDetails/indicatorDetailsLabel.style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.components.IndicatorList">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="IndicatorList.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/IndicatorList/IndicatorList.js">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="12" count="19" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.components.Skeleton">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Skeleton.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/Skeleton/Skeleton.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="13" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="24" count="17" type="stmt"/>
+        <line num="29" count="17" type="stmt"/>
+        <line num="49" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.components.TimeLineItem">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="TimeLineItem.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/TimeLineItem/TimeLineItem.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+      </file>
+      <file name="timeLineItem.style.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/components/TimeLineItem/timeLineItem.style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.containers.IndicatorChart">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="IndicatorChart.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/containers/IndicatorChart/IndicatorChart.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.containers.IndicatorContainer">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="IndicatorContainer.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/containers/IndicatorContainer/IndicatorContainer.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="20" type="stmt"/>
+        <line num="10" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="15" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.containers.TimeLine">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="TimeLine.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/containers/TimeLine/TimeLine.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.utils">
+      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <file name="dateTransform.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/dateTransform.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+      </file>
+      <file name="indicatorsTransforms.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/indicatorsTransforms.js">
+        <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="1" count="13" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="8" count="13" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="11" count="35" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="18" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="18" count="13" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+        <line num="20" count="18" type="stmt"/>
+        <line num="24" count="13" type="stmt"/>
+        <line num="25" count="9" type="stmt"/>
+        <line num="26" count="9" type="stmt"/>
+        <line num="36" count="13" type="stmt"/>
+      </file>
+    </package>
+    <package name="test3it.src.utils.hooks">
+      <metrics statements="50" coveredstatements="48" conditionals="9" coveredconditionals="7" methods="21" coveredmethods="19"/>
+      <file name="useChart.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/hooks/useChart.js">
+        <metrics statements="14" coveredstatements="14" conditionals="7" coveredconditionals="6" methods="6" coveredmethods="6"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="8" count="36" type="cond" truecount="0" falsecount="1"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="2" type="stmt"/>
+      </file>
+      <file name="useHomeView.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/hooks/useHomeView.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+      </file>
+      <file name="useIndicatorContainerNavigation.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/hooks/useIndicatorContainerNavigation.js">
+        <metrics statements="7" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="20" type="stmt"/>
+        <line num="5" count="20" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="11" count="20" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="18" count="20" type="stmt"/>
+      </file>
+      <file name="useIndicatorView.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/hooks/useIndicatorView.js">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="12" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+      </file>
+      <file name="useViewHeader.js" path="/Users/kevinosorio/workspace/prueba-3it/test3it/src/utils/hooks/useViewHeader.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
