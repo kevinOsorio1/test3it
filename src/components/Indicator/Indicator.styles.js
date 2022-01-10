@@ -10,7 +10,6 @@ const indicatorStyles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     elevation: 8,
-    shadowOffset: 10,
     border: '1px solid black',
   },
   content: {

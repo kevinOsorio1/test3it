@@ -9,6 +9,7 @@ import 'react-native-gesture-handler';
 import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import Drawer from './src/Navigation/Drawer';
+import {SafeAreaView} from 'react-native-safe-area-context';
 
 const App = () => {
   return (

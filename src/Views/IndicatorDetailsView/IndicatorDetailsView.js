@@ -10,7 +10,7 @@ const IndicatorDetailsView = ({route}) => {
   useViewHeader(route);
 
   return (
-    <ScrollView>
+    <ScrollView style={{flex: 1}}>
       <IndicatorDetails indicator={indicator} />
       {indicator && <IndicatorChart indicator={indicator} />}
     </ScrollView>

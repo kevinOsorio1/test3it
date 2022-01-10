@@ -5,7 +5,10 @@ const useViewHeader = route => {
   const navigation = useNavigation();
   useFocusEffect(
     useCallback(() => {
-      navigation.setOptions({headerShown: true, title: route.params.name});
+      navigation.setOptions({
+        headerShown: true,
+        title: route.params.name,
+      });
       navigation.getParent().setOptions({headerShown: false});
       return () => {
         navigation.getParent().setOptions({headerShown: true});
